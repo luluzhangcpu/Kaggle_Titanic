@@ -1,4 +1,5 @@
 ### 项目简介：
+
 * 此为Kaggle平台--Titanic生存率预测项目；
 * 数据来源--Kaggle上公开数据：https://www.kaggle.com/competitions/titanic
 * 该项目为机器学习的经典入门项目，主要应用了几大分类器来预测；
