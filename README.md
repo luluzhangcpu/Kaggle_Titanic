@@ -4,7 +4,9 @@
 
 * 数据来源--Kaggle公开数据；
 
-* 该项目为机器学习的经典入门项目，主要应用了几大分类器来预测；
+
+* 该项目作为机器学习入门的经典项目，运用Pandas、Numpy等库进行数据清洗/补充/分析，
+* 附之网格搜索调参，建立Knn、Adaboost、GBDT、RandomForest等分类器进行准确率测算/对比，输出最优模型；
 
 * 项目地址所在：https://www.kaggle.com/code/yougebuding/titanic-predict/notebook
 
@@ -16,5 +18,5 @@
 
 * 最终择选到的模型，在Kaggle上得分为0.78468；
 
-* 即，约 80%的结果，均被预测正确，模型较适合；
+* 即，对Titanic生存率测算准确率，达约80%，模型较适合；
 
