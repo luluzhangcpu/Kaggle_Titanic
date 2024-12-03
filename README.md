@@ -8,7 +8,9 @@
 * 该项目作为机器学习入门的经典项目，运用Pandas、Numpy等库进行数据清洗/补充/分析；
 * 附之网格搜索调参，建立Knn、Adaboost、GBDT、RandomForest等分类器进行准确率测算/对比，输出最优模型；
 
-* 项目地址所在：https://www.kaggle.com/code/yougebuding/titanic-predict/notebook
+* Kaggle项目地址所在：https://www.kaggle.com/code/yougebuding/titanic-predict/notebook
+
+* 知乎笔记地址：https://zhuanlan.zhihu.com/p/730213198
 
 * 由于本项目中，Kaggle评估标准为 accuracy，Accuracy =(TP+TN)/(TP+TN+FP+FN)；
 
